@@ -1,4 +1,4 @@
 # Integrantes
 
 - Nombre Sofia Servian
-- Nombre Rodrigo Tonanes
+- Nombre Rodrigo Tonanes,edsd :25,ciudad:bs as
