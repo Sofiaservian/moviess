@@ -1,7 +1,6 @@
 # Integrantes
 
-- Nombre Sofia Servian
-- Nombre Rodrigo Tonanes,edsd :25,ciudad :bs as
-  Edad 22
-  Ciudad Berazategui
-- Nombre Rodrigo Tonanes
+- Nombre Sofia Servia Edad 22,ciudad Berazategui
+
+- Nombre Rodrigo Tonanes,edad :25,ciudad :bs as
+  
